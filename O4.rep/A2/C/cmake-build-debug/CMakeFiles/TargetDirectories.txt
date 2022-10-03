@@ -1,0 +1,3 @@
+/home/jonathan/Documents/IDATT2503/O4.rep/A2/C/cmake-build-debug/CMakeFiles/C.dir
+/home/jonathan/Documents/IDATT2503/O4.rep/A2/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jonathan/Documents/IDATT2503/O4.rep/A2/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

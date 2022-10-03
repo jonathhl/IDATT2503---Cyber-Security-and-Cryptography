@@ -1,0 +1,8 @@
+version: '2'
+services:
+  my-flask-app:
+    container_name: my-flask-app
+    image: flask-app
+    ports:
+      - "5010:5008"
+    restart: always
